@@ -1,0 +1,13 @@
+button {
+  margin-right: 5px;
+}
+
+div,
+p,
+canvas {
+  margin: 10px;
+}
+
+canvas {
+  border: 1px solid black;
+}
